@@ -1,6 +1,6 @@
 # Customer Segmentation using K-means Clustering
 
-What is Customer Segmentation?
+### What is Customer Segmentation?
 Customer segmentation is the process of breaking down the customer base into various groups of people that are similar 
 in many ways that are important to marketing, such as gender, age, interests, and various spending habits.
 Companies that use customer segmentation operate under the premise that each customer has unique needs that must be 
